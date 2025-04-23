@@ -3,5 +3,13 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "editor.fontSize": 20,
+    "editor.tabSize": 2,
+    "terminal.integrated.fontSize": 18,
+    "powershell.powerShellAdditionalExePaths": {
+        "Downloaded PowerShell": "C:/Users/username/Downloads/PowerShell/pwsh.exe",
+        "Built PowerShell": "C:/Users/username/src/PowerShell/src/powershell-win-core/bin/Debug/net6.0/win7-x64/publish/pwsh.exe"
+    },
+    "explorer.compactFolders": false
 }
