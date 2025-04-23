@@ -20,3 +20,8 @@
 3. IntelliJ설치
 * https://www.jetbrains.com/ko-kr/idea/download/?section=windows
 
+
+### STEP3 - 수업소스 내 계정으로 복사하기
+1. Fork의 개념 이해
+	- Fork : 다른 사람의 저장소를 내 계정으로 복사해 오는 것.
+	- 용도 : 원본 저장소에 직접 권한이 없어도 내 계정에서 마음껏 수정, 실험 가능함.
